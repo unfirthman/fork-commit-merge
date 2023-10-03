@@ -7,4 +7,4 @@ function sumNum(num1, num2) {
 }
 
 
-console.log(sumNum(5, 8))
+// console.log(sumNum(5, 8))
